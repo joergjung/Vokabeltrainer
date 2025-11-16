@@ -1,0 +1,5 @@
+{
+  "name": "Vocabulary Trainer",
+  "description": "An interactive flashcard application to help you learn new vocabulary from a CSV file, complete with audio pronunciation powered by Gemini.",
+  "requestFramePermissions": []
+}
